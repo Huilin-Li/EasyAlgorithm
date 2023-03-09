@@ -1,8 +1,8 @@
 # mini projects
 
 ## Time-series analysis
-1. ARIMA
-2. 
+1. ARIMA_shampoo_sales_prediction
+2. DNN_house_price_prediction
 
 ## Image analysis
 
