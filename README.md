@@ -1,1 +1,1 @@
-# courswork
+# mini projects
