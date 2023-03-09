@@ -9,7 +9,7 @@
 2. [Medical_Image_Classification_via_CNN](Medical_Image_Classification_via_CNN.ipynb)
 
 ## Optimization/Decision-making
-
+1. [GA_in_Tune_Hyperparameters_example](GA_in_Tune_Hyperparameters_example.ipynb)
 
 ## Text mining
 1. [NLP_supervised_classify_topic_of_documents](NLP_supervised_classify_topic_of_documents.ipynb)
