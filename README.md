@@ -1,7 +1,7 @@
 # mini projects
 
 ## Time-series analysis
-1. [ARIMA_shampoo_sales_prediction]()
+1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
 2. DNN_house_price_prediction
 
 ## Image analysis
