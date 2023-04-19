@@ -1,4 +1,5 @@
 # mini projects
+How to explain an algorithm to a person who do not have too much relevant knowledge.
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
