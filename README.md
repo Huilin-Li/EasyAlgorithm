@@ -1,4 +1,4 @@
-# mini projects
+# Easy Algorithm
 How to explain an algorithm to a person who do not have too much relevant knowledge.
 
 ## Time-series analysis
