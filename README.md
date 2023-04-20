@@ -1,5 +1,15 @@
-# Easy Algorithm
-**How to explain an algorithm to a layman.**
+# Easy Algorithm: How to explain an algorithm to a layman.
+
+I was asked to explain an algorithm to a layman during the interview. Hmm, this is a good question.
+
+Compared to other online sources, here, we learn and understand an algorithm only by:
+
+- what algorithm it is.
+- what problem it mainly solves.
+- what is the core idea underlying this algorithm.
+- An example.
+
+As simple as possible, but they must be correct!
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
