@@ -1,5 +1,5 @@
 # Easy Algorithm
-How to explain an algorithm to a layman.
+**How to explain an algorithm to a layman.**
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
