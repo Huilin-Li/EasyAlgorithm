@@ -2,12 +2,11 @@
 
 I was asked to explain an algorithm to a layman during the interview. Hmm, this is a good question.
 
-Compared to other online sources, here, we learn and understand an algorithm only by:
+Here, we learn and understand an algorithm only by:
 
-- what algorithm it is.
-- what problem it mainly solves.
-- what is the core idea underlying this algorithm.
-- An example.
+- algorithm.
+- core idea.
+- an example.
 
 As simple as possible, but they must be correct!
 
