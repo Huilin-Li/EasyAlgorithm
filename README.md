@@ -10,6 +10,9 @@ Here, we learn and understand an algorithm only by:
 
 ### As simple as possible, as less words as possible, but they must be correct!
 
+##  Neural Network
+1. [NN](NN.ipynb)
+
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
 2. [DNN_house_price_prediction](Time_series_prediction_shampoo_sales_via_DNN.ipynb)
