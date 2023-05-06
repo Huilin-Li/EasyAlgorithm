@@ -2,6 +2,8 @@
 
 I was asked to explain an algorithm to a layman during the interview. Hmm, this is a good question.
 
+(ongoing)
+
 Here, we learn and understand an algorithm only by:
 
 - algorithm.
