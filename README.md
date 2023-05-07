@@ -10,7 +10,7 @@ Only by:
 ### You can understand this as a tool, which help you use the algorithm in your research.
 ### Correct and Reproducible!
 
-##  Neural Network
+##  A Simple Neural Network (one input layer, one hidden layer with two nodes, one output layer)
 1. [This is a hand-written report that explains how the neural network works.](NN.ipynb)
    - This is a comprehensive neural network tutorial that covers all aspects of the topic.
    - You only need to be familiar with +-x/ and derivative calculation.
