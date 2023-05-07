@@ -1,19 +1,24 @@
-# Easy Algorithm: How to explain an algorithm to a layman.
+# Easy Algorithm: How to explain an algorithm to a layman. (ongoing)
 
-I was asked to explain an algorithm to a layman during the interview. Hmm, this is a good question.
+I want to help you learn and understand algorithms ***as simple as possible, as less words as possible, but they must be correct and reproducible!***
 
-(ongoing)
+Only by:
+- the name of the algorithm (you will know what algorithm you will be familiar with).
+- the core idea of the algorithm (you will understand the mechanism underlying the algorithm, and some of them will be given a scratch-implementation version).
+- an application (you will know how to use this algorithm in one task).
 
-Here, we learn and understand an algorithm only by:
-
-- algorithm.
-- core idea.
-- an example.
-
-### As simple as possible, as less words as possible, but they must be correct!
+### You can understand this as a tool, which help you use the algorithm in your research.
+### Correct and Reproducible!
 
 ##  Neural Network
-1. [NN](NN.ipynb)
+1. [This is a hand-written report that explain how the neural network works.](NN.ipynb)
+    1.1 This is a comprehensive neural network tutorial that covers all aspects of the topic. 
+    1.2 You only need to be familiar with +-x/ and derivative calculation.
+    1.3 We will go through:
+        - ***Forward propagation*** process with ***activation function (sigmoid and softmax)*** in the hidden layer and in the output layer.
+        - ***Backward propagation*** process with ***derivative calculation*** and ***cross-entropy of each parameter (weight and bias)***.
+        - ***Update each parameter (weight and bias) simultaneously***.
+   
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
