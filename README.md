@@ -11,13 +11,17 @@ Only by:
 ### Correct and Reproducible!
 
 ##  Neural Network
-1. [This is a hand-written report that explain how the neural network works.](NN.ipynb)
+1. [This is a hand-written report that explains how the neural network works.](NN.ipynb)
    - This is a comprehensive neural network tutorial that covers all aspects of the topic.
    - You only need to be familiar with +-x/ and derivative calculation.
    - We will go through:
         - **Forward propagation** process with **activation function (sigmoid and softmax)** in the hidden layer and in the output layer.
         - **Backward propagation** process with **derivative calculation** and **cross-entropy of each parameter (weight and bias)***.
         - **Update each parameter (weight and bias) simultaneously**.
+2. [This is a classification example.](Nerual_Network_from_scratch_4features_3classification.ipynb)
+   - Dataset: Iris dataset with 4 features and 3 classifications
+   - Implement the data pre-processing (one-hot encode), forward propagation, backward propagation, activation functions, cross-entropy (loss calculation), derivative calculation, update parameters (weight and bias) simultaneously, training model on the train dataset, prediction, accuracy calculation on the test dataset from the scratch only via Numpy and Pandas.
+   
    
 
 ## Time-series analysis
