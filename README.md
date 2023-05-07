@@ -1,6 +1,6 @@
 # Easy Algorithm: How to explain an algorithm to a layman. (ongoing)
 
-I want to help you learn and understand algorithms ***as simple as possible, as less words as possible, but they must be correct and reproducible!***
+I want to help you learn and understand algorithms **as simple as possible, as less words as possible, but they must be correct and reproducible!**
 
 Only by:
 - the name of the algorithm (you will know what algorithm you will be familiar with).
@@ -12,12 +12,12 @@ Only by:
 
 ##  Neural Network
 1. [This is a hand-written report that explain how the neural network works.](NN.ipynb)
-    1.1 This is a comprehensive neural network tutorial that covers all aspects of the topic. 
-    1.2 You only need to be familiar with +-x/ and derivative calculation.
-    1.3 We will go through:
-        - ***Forward propagation*** process with ***activation function (sigmoid and softmax)*** in the hidden layer and in the output layer.
-        - ***Backward propagation*** process with ***derivative calculation*** and ***cross-entropy of each parameter (weight and bias)***.
-        - ***Update each parameter (weight and bias) simultaneously***.
+   - This is a comprehensive neural network tutorial that covers all aspects of the topic.
+   - You only need to be familiar with +-x/ and derivative calculation.
+   - We will go through:
+        - **Forward propagation** process with **activation function (sigmoid and softmax)** in the hidden layer and in the output layer.
+        - **Backward propagation** process with **derivative calculation** and **cross-entropy of each parameter (weight and bias)***.
+        - **Update each parameter (weight and bias) simultaneously**.
    
 
 ## Time-series analysis
