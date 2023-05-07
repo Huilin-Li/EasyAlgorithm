@@ -20,7 +20,18 @@ Only by:
         - **Update each parameter (weight and bias) simultaneously**.
 2. [This is a classification example.](Nerual_Network_from_scratch_4features_3classification.ipynb)
    - Dataset: Iris dataset with 4 features and 3 classifications
-   - Implement the data pre-processing (one-hot encode), forward propagation, backward propagation, activation functions, cross-entropy (loss calculation), derivative calculation, update parameters (weight and bias) simultaneously, training model on the train dataset, prediction, accuracy calculation on the test dataset from the scratch only via Numpy and Pandas.
+   - Implement 
+     - data pre-processing (one-hot encode), 
+     - forward propagation,
+     - backward propagation,
+     - activation functions, 
+     - cross-entropy (loss calculation), 
+     - derivative calculation, 
+     - update parameters (weight and bias) simultaneously, 
+     - training model on the train dataset, 
+     - prediction in the test dataset, 
+     - accuracy calculation on the test dataset 
+   - from the scratch only via ```Numpy``` and ```Pandas```.
    
    
 
