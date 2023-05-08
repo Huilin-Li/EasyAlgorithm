@@ -33,7 +33,8 @@ Only by:
      - accuracy calculation on the test dataset 
    - from the scratch only via ```Numpy``` and ```Pandas```.
     
-## 
+## :stuck_out_tongue: Convolution Neural Nework in One Image
+1. [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
