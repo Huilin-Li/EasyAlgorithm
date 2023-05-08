@@ -11,7 +11,7 @@ Only by:
 **Correct and Reproducible!**
 
 ## :grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas
-1. [This is a hand-written report that explains how the neural network works.](NN.ipynb)
+1. [This is a hand-written report that explains how the neural network works.](Report_How_Neural_Network_Really_Works.ipynb)
    - This is a comprehensive neural network tutorial that covers all aspects of the topic.
    - You only need to be familiar with +-x/ and derivative calculation.
    - We will go through:
