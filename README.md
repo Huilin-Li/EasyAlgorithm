@@ -10,7 +10,7 @@ Only by:
 ### You can understand this as a tool, which help you use the algorithm in your research.
 ### Correct and Reproducible!
 
-##  A Simple Neural Network (one input layer, one hidden layer with two nodes, one output layer)
+## :grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas
 1. [This is a hand-written report that explains how the neural network works.](NN.ipynb)
    - This is a comprehensive neural network tutorial that covers all aspects of the topic.
    - You only need to be familiar with +-x/ and derivative calculation.
@@ -32,8 +32,8 @@ Only by:
      - prediction in the test dataset, 
      - accuracy calculation on the test dataset 
    - from the scratch only via ```Numpy``` and ```Pandas```.
-   
-   
+    
+## 
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
