@@ -7,8 +7,8 @@ Only by:
 - the core idea of the algorithm (you will understand the mechanism underlying the algorithm, and some of them will be given a scratch-implementation version).
 - an application (you will know how to use this algorithm in one task).
 
-### You can understand this as a tool, which help you use the algorithm in your research.
-### Correct and Reproducible!
+**You can understand this as a tool, which help you use the algorithm in your research.**
+**Correct and Reproducible!**
 
 ## :grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas
 1. [This is a hand-written report that explains how the neural network works.](NN.ipynb)
@@ -16,7 +16,7 @@ Only by:
    - You only need to be familiar with +-x/ and derivative calculation.
    - We will go through:
         - **Forward propagation** process with **activation function (sigmoid and softmax)** in the hidden layer and in the output layer.
-        - **Backward propagation** process with **derivative calculation** and **cross-entropy of each parameter (weight and bias)***.
+        - **Backward propagation** process with **derivative calculation** and **cross-entropy of each parameter (weight and bias)**.
         - **Update each parameter (weight and bias) simultaneously**.
 2. [This is a classification example.](Nerual_Network_from_scratch_4features_3classification.ipynb)
    - Dataset: Iris dataset with 4 features and 3 classifications
@@ -50,3 +50,5 @@ Only by:
 ## Text mining
 1. [NLP_supervised_classify_topic_of_documents](NLP_supervised_classify_topic_of_documents.ipynb)
 2. [Twitter_sentiment_analysis_using_Word2vec_bi-LSTM](Twitter_sentiment_analysis_using_Word2Vec_bi-LSTM.ipynb)
+### Reference:
+https://youtu.be/HGwBXDKFk9I
