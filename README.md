@@ -51,4 +51,9 @@ Only by:
 1. [NLP_supervised_classify_topic_of_documents](NLP_supervised_classify_topic_of_documents.ipynb)
 2. [Twitter_sentiment_analysis_using_Word2vec_bi-LSTM](Twitter_sentiment_analysis_using_Word2Vec_bi-LSTM.ipynb)
 ### Reference:
+<details>
+<summary>Title 1</summary>
+<p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
 https://youtu.be/HGwBXDKFk9I
+https://youtu.be/NItHNRc3awY
