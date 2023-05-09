@@ -52,7 +52,7 @@ Only by:
 2. [Twitter_sentiment_analysis_using_Word2vec_bi-LSTM](Twitter_sentiment_analysis_using_Word2Vec_bi-LSTM.ipynb)
 
 <details>
-<summary>**Reference:**</summary>
+<summary>Reference:</summary>
 1. https://youtu.be/HGwBXDKFk9I <br />
 2. https://youtu.be/NItHNRc3awY
 </details>
