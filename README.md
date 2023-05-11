@@ -33,7 +33,11 @@ Only by:
      - accuracy calculation on the test dataset 
    - from the scratch only via ```Numpy``` and ```Pandas```.
  
-## :smiley: Computer Vision/ Image Analysis   
+## :smiley: Computer Vision/ Image Analysis  
+### :kissing: Digital Image pre-processing and pre-knowlegde
+1. [Digital Image Pre-Processing](Digital_Image_Pre_Processing.ipynb)
+    - Bit depth and Gray Levels (the specific value of each pixel)
+    - ```skimage.io.imread``` read pictures as ```y,x,c``` where ```c``` is ```RGB``` 3 channels.
 ### :stuck_out_tongue: Convolution Neural Nework in One Image
 1. [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
 
