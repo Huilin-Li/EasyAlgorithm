@@ -32,8 +32,9 @@ Only by:
      - prediction in the test dataset, 
      - accuracy calculation on the test dataset 
    - from the scratch only via ```Numpy``` and ```Pandas```.
-    
-## :stuck_out_tongue: Convolution Neural Nework in One Image
+ 
+## :smiley: Computer Vision/ Image Analysis   
+### :stuck_out_tongue: Convolution Neural Nework in One Image
 1. [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
 
 ## Time-series analysis
@@ -57,4 +58,5 @@ Only by:
 <summary>Reference:</summary>
 1. https://youtu.be/HGwBXDKFk9I <br />
 2. https://youtu.be/NItHNRc3awY
+3. https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 </details>
