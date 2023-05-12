@@ -1,14 +1,13 @@
-# Easy Algorithm: How to explain an algorithm to a layman. (ongoing)
+# Easy Algorithm: (ongoing)
 
-I want to help you learn and understand algorithms **as simple as possible, as less words as possible, but they must be correct and reproducible!**
+I want to build a community where people can understand, use, and extend basic algorithms **as simply and concisely as possible, while ensuring that they are correct and reproducible**. This means that there are no fancy words, lengthy introductions, or meaningless descriptions. We will get straight to the core point.
 
-Only by:
+For example:
 - the name of the algorithm (you will know what algorithm you will be familiar with).
 - the core idea of the algorithm (you will understand the mechanism underlying the algorithm, and some of them will be given a scratch-implementation version).
 - an application (you will know how to use this algorithm in one task).
 
-**You can understand this as a tool, which help you use the algorithm in your research.**
-**Correct and Reproducible!**
+**I hope this work can help you use the algorithm in your work.**
 
 ## :grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas
 1. [This is a hand-written report that explains how the neural network works.](Report_How_Neural_Network_Really_Works.ipynb)
