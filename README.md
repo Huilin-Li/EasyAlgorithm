@@ -9,7 +9,8 @@ For example:
 
 **I hope this work can help you use the algorithm in your work.**
 
-<details markdown="1"><summary>:grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**</summary>
+<details>
+    <summary>:grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas</summary>
 
    - [This is a complete report that explains how the neural network works from the very scratch.](Report_How_Neural_Network_Really_Works.ipynb)
         - This is a comprehensive neural network tutorial that covers all aspects of the topic.
@@ -88,7 +89,8 @@ For example:
 
 <details>
 <summary>Reference:</summary>
-1. https://youtu.be/HGwBXDKFk9I <br />
+
+1. https://youtu.be/HGwBXDKFk9I
 2. https://youtu.be/NItHNRc3awY
 3. https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 </details>
