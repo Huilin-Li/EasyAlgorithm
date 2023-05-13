@@ -9,36 +9,38 @@ For example:
 
 **I hope this work can help you use the algorithm in your work.**
 
-## :grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas
-1. [This is a hand-written report that explains how the neural network works.](Report_How_Neural_Network_Really_Works.ipynb)
-   - This is a comprehensive neural network tutorial that covers all aspects of the topic.
-   - You only need to be familiar with +-x/ and derivative calculation.
-   - We will go through:
+1. :grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**
+   - [This is a hand-written report that explains how the neural network works.](Report_How_Neural_Network_Really_Works.ipynb)
+    - This is a comprehensive neural network tutorial that covers all aspects of the topic.
+    - You only need to be familiar with +-x/ and derivative calculation.
+    - We will go through:
         - **Forward propagation** process with **activation function (sigmoid and softmax)** in the hidden layer and in the output layer.
         - **Backward propagation** process with **derivative calculation** and **cross-entropy of each parameter (weight and bias)**.
         - **Update each parameter (weight and bias) simultaneously**.
-2. [This is a classification example.](Nerual_Network_from_scratch_4features_3classification.ipynb)
-   - Dataset: Iris dataset with 4 features and 3 classifications
-   - Implement 
-     - data pre-processing (one-hot encode), 
-     - forward propagation,
-     - backward propagation,
-     - activation functions, 
-     - cross-entropy (loss calculation), 
-     - derivative calculation, 
-     - update parameters (weight and bias) simultaneously, 
-     - training model on the train dataset, 
-     - prediction in the test dataset, 
-     - accuracy calculation on the test dataset 
-   - from the scratch only via ```Numpy``` and ```Pandas```.
- 
-## :smiley: Computer Vision/ Image Analysis  
-### :kissing: Digital Image pre-processing and pre-knowlegde
+    - [This is a classification example.](Nerual_Network_from_scratch_4features_3classification.ipynb)
+       - Dataset: Iris dataset with 4 features and 3 classifications
+       - Implement 
+         - data pre-processing (one-hot encode), 
+         - forward propagation,
+         - backward propagation,
+         - activation functions, 
+         - cross-entropy (loss calculation), 
+         - derivative calculation, 
+         - update parameters (weight and bias) simultaneously, 
+         - training model on the train dataset, 
+         - prediction in the test dataset, 
+         - accuracy calculation on the test dataset 
+       - from the scratch only via ```Numpy``` and ```Pandas```.
+    
+## :kissing: Digital Image pre-processing and pre-knowlegde
 1. [Digital Image Pre-Processing](Digital_Image_Pre_Processing.ipynb)
     - Bit depth and Gray Levels (the specific value of each pixel)
     - ```skimage.io.imread``` read pictures as ```y,x,c``` where ```c``` is ```RGB``` 3 channels.
-### :stuck_out_tongue: Convolution Neural Nework in One Image
+## :stuck_out_tongue: Convolution Neural Nework in One Image
 1. [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
+
+
+## :slightly_smiling_face:	Principle Componenet Analysis
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
