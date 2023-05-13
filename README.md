@@ -38,7 +38,7 @@ For example:
 3. :stuck_out_tongue: [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
 
 
-## :slightly_smiling_face:	Principle Componenet Analysis
+4. :slightly_smiling_face:	[Principle Component Analysis (PCA) from the scratch and via Sklearn](PCA_from_scratch_and_via_Scikit_Learn.ipynb)
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
