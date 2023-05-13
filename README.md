@@ -9,11 +9,6 @@ For example:
 
 **I hope this work can help you use the algorithm in your work.**
 
-<details>
-<summary>:grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**:</summary>
-
-</details>
-
 1. :grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**
     - [This is a hand-written report that explains how the neural network works.](Report_How_Neural_Network_Really_Works.ipynb)
         - This is a comprehensive neural network tutorial that covers all aspects of the topic.
