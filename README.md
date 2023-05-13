@@ -35,8 +35,7 @@ For example:
 2. :kissing: [Digital Image Pre-Processing and pre-knowlegde](Digital_Image_Pre_Processing.ipynb)
     - Bit depth and Gray Levels (the specific value of each pixel)
     - ```skimage.io.imread``` read pictures as ```y,x,c``` where ```c``` is ```RGB``` 3 channels.
-## :stuck_out_tongue: Convolution Neural Nework in One Image
-1. [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
+3. :stuck_out_tongue: [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
 
 
 ## :slightly_smiling_face:	Principle Componenet Analysis
