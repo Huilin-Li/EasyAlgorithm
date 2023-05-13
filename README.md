@@ -54,8 +54,6 @@ For example:
     <summary>:slightly_smiling_face: Principle Component Analysis (PCA) from the scratch and via Sklearn</summary>
 
 - [Principle Component Analysis (PCA) from the scratch and via Sklearn](PCA_from_scratch_and_via_Scikit_Learn.ipynb)
-    
-- [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
 </details>
 
 
