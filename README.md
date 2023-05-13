@@ -9,6 +9,50 @@ For example:
 
 **I hope this work can help you use the algorithm in your work.**
 
+<ol>
+<li> <details><summary>:grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**</summary>
+   - [This is a complete report that explains how the neural network works from the very scratch.](Report_How_Neural_Network_Really_Works.ipynb)
+        - This is a comprehensive neural network tutorial that covers all aspects of the topic.
+        - You only need to be familiar with +-x/ and derivative calculation.
+        - We will go through:
+            - **Forward propagation** process with **activation function (sigmoid and softmax)** in the hidden layer and in the output layer.
+            - **Backward propagation** process with **derivative calculation** and **cross-entropy of each parameter (weight and bias)**.
+            - **Update each parameter (weight and bias) simultaneously**.
+   - [This is a classification example.](Nerual_Network_from_scratch_4features_3classification.ipynb)
+       - Dataset: Iris dataset with 4 features and 3 classifications
+       - Implement 
+         - data pre-processing (one-hot encode), 
+         - forward propagation,
+         - backward propagation,
+         - activation functions, 
+         - cross-entropy (loss calculation), 
+         - derivative calculation, 
+         - update parameters (weight and bias) simultaneously, 
+         - training model on the train dataset, 
+         - prediction in the test dataset, 
+         - accuracy calculation on the test dataset 
+       - from the scratch only via ```Numpy``` and ```Pandas```.
+</details>
+</li>
+
+<li> <details><summary>Hello</summary><blockquote>
+  <details><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
+</li>
+
+<li> <details><summary>Hello</summary><blockquote>
+  <details><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+</blockquote></details>
+</li>
+</ol>
+
+
+
+
 1. :grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**
     - [This is a complete report that explains how the neural network works from the very scratch.](Report_How_Neural_Network_Really_Works.ipynb)
         - This is a comprehensive neural network tutorial that covers all aspects of the topic.
@@ -39,6 +83,7 @@ For example:
 
 
 4. :slightly_smiling_face:	[Principle Component Analysis (PCA) from the scratch and via Sklearn](PCA_from_scratch_and_via_Scikit_Learn.ipynb)
+
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
