@@ -10,7 +10,7 @@ For example:
 **I hope this work can help you use the algorithm in your work.**
 
 1. :grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**
-    - [This is a hand-written report that explains how the neural network works.](Report_How_Neural_Network_Really_Works.ipynb)
+    - [This is a complete report that explains how the neural network works from the very scratch.](Report_How_Neural_Network_Really_Works.ipynb)
         - This is a comprehensive neural network tutorial that covers all aspects of the topic.
         - You only need to be familiar with +-x/ and derivative calculation.
         - We will go through:
@@ -31,12 +31,8 @@ For example:
          - prediction in the test dataset, 
          - accuracy calculation on the test dataset 
        - from the scratch only via ```Numpy``` and ```Pandas```.
-
-
-
     
-## :kissing: Digital Image pre-processing and pre-knowlegde
-1. [Digital Image Pre-Processing](Digital_Image_Pre_Processing.ipynb)
+2. :kissing: [Digital Image Pre-Processing and pre-knowlegde](Digital_Image_Pre_Processing.ipynb)
     - Bit depth and Gray Levels (the specific value of each pixel)
     - ```skimage.io.imread``` read pictures as ```y,x,c``` where ```c``` is ```RGB``` 3 channels.
 ## :stuck_out_tongue: Convolution Neural Nework in One Image
