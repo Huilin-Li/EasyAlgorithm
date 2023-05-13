@@ -9,8 +9,8 @@ For example:
 
 **I hope this work can help you use the algorithm in your work.**
 
-<ol>
-<li> <details><summary>:grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**</summary>
+<details markdown="1"><summary>:grinning: **Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas**</summary>
+
    - [This is a complete report that explains how the neural network works from the very scratch.](Report_How_Neural_Network_Really_Works.ipynb)
         - This is a comprehensive neural network tutorial that covers all aspects of the topic.
         - You only need to be familiar with +-x/ and derivative calculation.
@@ -33,22 +33,6 @@ For example:
          - accuracy calculation on the test dataset 
        - from the scratch only via ```Numpy``` and ```Pandas```.
 </details>
-</li>
-
-<li> <details><summary>Hello</summary><blockquote>
-  <details><summary>World</summary><blockquote>
-    :smile:
-  </blockquote></details>
-</blockquote></details>
-</li>
-
-<li> <details><summary>Hello</summary><blockquote>
-  <details><summary>World</summary><blockquote>
-    :smile:
-  </blockquote></details>
-</blockquote></details>
-</li>
-</ol>
 
 
 
