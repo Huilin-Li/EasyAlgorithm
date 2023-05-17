@@ -74,6 +74,13 @@ For example:
 
 ## [Some Math and Plot Tips](some_math_plot_tips.ipynb)
 
+
+<details>
+<summary>Notes:</summary>
+
+[interesting notes](interesting_notes.ipynb)
+</details>
+
 <details>
 <summary>Reference:</summary>
 
