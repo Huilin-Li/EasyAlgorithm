@@ -56,6 +56,14 @@ For example:
 - [Principle Component Analysis (PCA) from the scratch and via Sklearn](PCA_from_scratch_and_via_Scikit_Learn.ipynb)
 </details>
 
+<details>
+    <summary>:star_struck: Image Classification (binary classification) via CNN in TensorFlow. </summary>
+
+- [Medical Image Classification (Normal vs Pneumonia)](https://www.kaggle.com/code/huilinli/medicalimageclassification-normalvspneumonia/edit)
+</details>
+
+
+
 
 ## Time-series analysis
 1. [ARIMA_shampoo_sales_prediction](Time_series_prediction_shampoo_sales_via_ARIMA.ipynb)
@@ -78,7 +86,7 @@ For example:
 <details>
 <summary>Some Math and Plot Tips:</summary>
 
-[Some Math and Plot Tips](some_math_plot_tips.ipynb)
+[Math & Plot tips](some_math_plot_tips.ipynb)
 </details>
 
 <details>
