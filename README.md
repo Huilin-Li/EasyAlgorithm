@@ -2,13 +2,9 @@
 
 I want to build a community where people can understand, use, and extend basic algorithms **as simply and concisely as possible, while ensuring that they are correct and reproducible**. This means that there are no fancy words, lengthy introductions, or meaningless descriptions. We will get straight to the core point.
 
-For example:
-- the name of the algorithm (you will know what algorithm you will be familiar with).
-- the core idea of the algorithm (you will understand the mechanism underlying the algorithm, and some of them will be given a scratch-implementation version).
-- an application (you will know how to use this algorithm in one task).
-
 **I hope this work can help you use the algorithm in your work.**
 
+## Tasks
 <details>
     <summary>:grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas</summary>
 
@@ -73,7 +69,7 @@ For example:
 
 
 
-
+## Tips
 <details>
 <summary>Some Math and Plot Tips:</summary>
 
