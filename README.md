@@ -60,12 +60,18 @@ I want to build a community where people can understand, use, and extend basic a
 
 
 <details>
-    <summary>:yum: Text mining. </summary>
+    <summary>:yum: Documents topic classification. </summary>
 
 - [NLP supervised classify topic of documents](NLP_supervised_classify_topic_of_documents.ipynb)
-- [Twitter sentiment analysis using Word2vec bi-LSTM](Twitter_sentiment_analysis_using_Word2Vec_bi-LSTM.ipynb)
-
 </details>
+
+
+<details>
+    <summary>:blush: Twitter sentiment analysis </summary>
+
+- [Twitter sentiment analysis using Word2vec bi-LSTM](Twitter_sentiment_analysis_using_Word2Vec_bi-LSTM.ipynb)
+</details>
+
 
 
 
