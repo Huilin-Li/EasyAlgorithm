@@ -55,10 +55,14 @@ I want to build a community where people can understand, use, and extend basic a
 <details>
     <summary>:star_struck: Image Classification (binary classification) via CNN in TensorFlow. </summary>
 
-- [Medical Image Classification (Normal vs Pneumonia)](https://www.kaggle.com/code/huilinli/medicalimageclassification-normalvspneumonia/edit)
+- [Medical Image Classification (Normal vs Pneumonia)](https://www.kaggle.com/code/huilinli/medicalimageclassification-normalvspneumonia)
 </details>
 
+<details>
+    <summary>:nerd_face: Image Segmentation via U-net in Keras . </summary>
 
+- [Iris-Eye Image Segmentation via U-net in Keras](https://www.kaggle.com/code/huilinli/iris-eye-segmentation-u-net/notebook)
+</details>
 <details>
     <summary>:yum: Documents topic classification. </summary>
 
