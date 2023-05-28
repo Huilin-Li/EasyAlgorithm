@@ -6,7 +6,7 @@ I want to build a community where people can understand, use, and extend basic a
 
 ## Tasks
 <details>
-    <summary>:grinning: Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas</summary>
+    <summary> Implement a Neural Network (one input layer, one hidden layer with two nodes, one output layer) from the scratch only via Numpy/Pandas</summary>
 
    - [This is a complete report that explains how the neural network works from the very scratch.](Report_How_Neural_Network_Really_Works.ipynb)
         - This is a comprehensive neural network tutorial that covers all aspects of the topic.
@@ -32,7 +32,7 @@ I want to build a community where people can understand, use, and extend basic a
 </details>
 
 <details>
-    <summary>:kissing: Digital Image Pre-Processing and pre-knowlegde</summary>
+    <summary> Digital Image Pre-Processing and pre-knowlegde</summary>
     
 - [Digital Image Pre-Processing and pre-knowlegde](Digital_Image_Pre_Processing.ipynb)
     - Bit depth and Gray Levels (the specific value of each pixel)
@@ -41,43 +41,47 @@ I want to build a community where people can understand, use, and extend basic a
     
 
 <details>
-    <summary>:stuck_out_tongue: Convolution Neural Nework in One Image</summary>
+    <summary> Convolution Neural Nework in One Image</summary>
     
 - [Convolution Neural Nework in One Image.](Convolution_Neural_Nework_in_One_Image.ipynb)
 </details>
 
 <details>
-    <summary>:slightly_smiling_face: Principle Component Analysis (PCA) from the scratch and via Sklearn</summary>
+    <summary> Principle Component Analysis (PCA) from the scratch and via Sklearn</summary>
 
 - [Principle Component Analysis (PCA) from the scratch and via Sklearn](PCA_from_scratch_and_via_Scikit_Learn.ipynb)
 </details>
 
 <details>
-    <summary>:star_struck: Image Classification (binary classification) via CNN in TensorFlow. </summary>
+    <summary> Image Classification (binary classification) via CNN in TensorFlow. </summary>
 
 - [Medical Image Classification (Normal vs Pneumonia)](https://www.kaggle.com/code/huilinli/medicalimageclassification-normalvspneumonia)
 </details>
 
 <details>
-    <summary>:nerd_face: Image Segmentation via U-net in Keras . </summary>
+    <summary> Image Segmentation via U-net in Keras . </summary>
 
 - [Iris-Eye Image Segmentation via U-net in Keras](https://www.kaggle.com/code/huilinli/iris-eye-segmentation-u-net/notebook)
 </details>
 <details>
-    <summary>:yum: Documents topic classification. </summary>
+    <summary> Documents topic classification. </summary>
 
 - [NLP supervised classify topic of documents](NLP_supervised_classify_topic_of_documents.ipynb)
 </details>
 
 
 <details>
-    <summary>:blush: Twitter sentiment analysis </summary>
+    <summary> Twitter sentiment analysis </summary>
 
 - [Twitter sentiment analysis using Word2vec bi-LSTM](Twitter_sentiment_analysis_using_Word2Vec_bi-LSTM.ipynb)
 </details>
 
 
+<details>
+    <summary> Metrics for evaluating the performance of your models via Sklearn </summary>
 
+- [Metrics for ML](machine_learning_metrics.ipynb)
+</details>
 
 ## Tips
 <details>
