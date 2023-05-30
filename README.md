@@ -1,6 +1,8 @@
 # Easy Algorithm: (ongoing)
 
-I want to build a community where people can understand, use, and extend basic algorithms **as simply and concisely as possible, while ensuring that they are correct and reproducible**. This means that there are no fancy words, lengthy introductions, or meaningless descriptions. We will get straight to the core point.
+We will get straight to the core point.
+
+One example helps you go through the whole process of using ML/AI to solve a problem.
 
 **I hope this work can help you use the algorithm in your work.**
 
